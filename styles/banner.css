@@ -1,0 +1,20 @@
+.banner {
+    background-image: linear-gradient(0deg, rgba(99,0,159,0.42620798319327735) 0%, rgba(43,3,108,1) 100%),url(https://images.pexels.com/photos/2651794/pexels-photo-2651794.jpeg?cs=srgb&dl=pexels-marinko-krsmanovic-2651794.jpg&fm=jpg);
+    height: 40vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner h1 {
+    color: bisque;
+}
+.banner h2 {
+    color: paleturquoise;
+}
+.banner h3 {
+    color: bisque;
+}

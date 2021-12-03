@@ -1,0 +1,40 @@
+.button-blue {
+    background-color:rgb(54, 54, 54);
+    color:lightsteelblue;
+    font-weight: bold;
+    padding: 16px;
+    border-radius: 6px;
+    border: 1px grey;
+    margin: 24px auto;
+}
+.button-blue:hover {
+    background-color: blueviolet;
+    color: bisque;
+}
+
+.button-nav {
+    background-color:rgb(75, 26, 121);
+    color:lightsteelblue;
+    font-weight: bold;
+    padding: 16px;
+    border-radius: 6px;
+    border: 1px grey;
+    margin: 24px auto;
+}
+.button-nav:hover{
+    background-color: rgb(245, 45, 105);
+    color: rgb(11, 87, 173);
+}
+.button-navs {
+    background-color:bisque;
+    color:blueviolet;
+    font-weight: bold;
+    padding: 16px;
+    border-radius: 6px;
+    border: 1px grey;
+    margin: 24px auto;
+}
+.button-navs:hover{
+    background-color: rgb(11, 87, 173);
+    color: rgb(245, 45, 105);
+}

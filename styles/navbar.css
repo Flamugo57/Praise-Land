@@ -1,0 +1,23 @@
+.navbar{
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    background-color:  rgb(54, 54, 54);
+}
+.navbar img{
+    width: 140px;
+    border-radius: 45%;
+}
+.nav-menu{
+    list-style: none; 
+}
+.nav-items{
+    display: inline;
+    margin: 0 8px 0 8px;
+}
+.i{
+    font-size: 60px;
+    background-color: bisque;
+}
